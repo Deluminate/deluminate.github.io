@@ -3,9 +3,6 @@
   
 html.deluminate-trial {
   -webkit-filter: invert() hue-rotate(180deg); }
-  
-html.deluminate-trial img {
-  -webkit-filter: invert() hue-rotate(180deg); }
 
 body {
   padding: 0;
