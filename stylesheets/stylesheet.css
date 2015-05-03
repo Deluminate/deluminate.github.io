@@ -2,7 +2,8 @@
   box-sizing: border-box; }
   
 html.deluminate-trial {
-  -webkit-filter: invert() hue-rotate(180deg); }
+  -webkit-filter: invert() hue-rotate(180deg);
+  filter: invert(100%) hue-rotate(180deg); }
 
 body {
   padding: 0;
@@ -107,6 +108,8 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
+.main-content {
+  background-color: #FFF; }
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {
